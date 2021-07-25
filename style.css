@@ -1,0 +1,23 @@
+html {
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  line-height: 30px;
+  box-sizing: border-box;
+  background-color: beige;
+}
+
+h1 {
+  align-items: center;
+}
+
+.img-my {
+  width: 150px;
+  border-radius: 50%;
+  position: relative;
+  right: 10px;
+}
+
+header,
+body {
+  margin: 20px 200px;
+}
